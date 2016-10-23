@@ -13,7 +13,13 @@ create the Cordova project:
 4, cordova plugin add cordova-plugin-media<Br/>
 5, cordova plugin add cordova-plugin-nowplaying<Br/>
 
-////////////////////
+/////////////// fix the "MNowPlaying.m" file //////////<Br/>
+Download the <b>MNowPlaying.m</b> file from: https://github.com/holospeed/nowPlayingFIX<Br/>
+and replace nowPlaying/platforms/ios/nowPlaying/Plugins/cordova-plugin-nowplaying/MNowPlaying.m <Br/>
+width my MNowPlaying.m project file
+<Br/>
+<Br/>
+//////////////////////////////////////////////////////
 <Br/>
 copy :   my js/index.js and<Br/>
 paste: into your nowPlaying/platforms/ios/www folder<Br/>
