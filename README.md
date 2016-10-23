@@ -1,9 +1,9 @@
 # nowplaying
 
-/////////////////////// Cordova /////////////////////////
+#/////////////////////// Cordova /////////////////////////
 
-1, cordova create nowPlaying com.nowplaying nowPlaying
-2, cd nowPlaying,
+#1, cordova create nowPlaying com.nowplaying nowPlaying
+#2, cd nowPlaying,
 3, cordova platform add ios
 4, cordova plugin add cordova-plugin-media
 5, cordova plugin add cordova-plugin-nowplaying
