@@ -25,11 +25,13 @@ width my MNowPlaying.m project file
 copy :   my js/index.js file and<Br/>
 paste: into your nowPlaying/platforms/ios/www/js folder<Br/>
        (overwrite the index.js file)
-  <Br/>  
+  <Br/>   <Br/>  <Br/> 
   
-///////////////////
+Recommended setting in Xcode:
+https://cloud.githubusercontent.com/assets/3962013/18225015/453ab8de-71e9-11e6-87d8-b0603d91f648.png
 
 
+Tested on iPhone 6s
 
 
 
