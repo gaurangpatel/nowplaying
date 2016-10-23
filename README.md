@@ -16,8 +16,8 @@ create the Cordova project:
 /////////////// fix the "MNowPlaying.m" file //////////<Br/>
 <Br/>
 Download the <b>MNowPlaying.m</b> file from: https://github.com/holospeed/nowPlayingFIX<Br/>
-and replace nowPlaying/platforms/ios/nowPlaying/Plugins/cordova-plugin-nowplaying/MNowPlaying.m <Br/>
-width my MNowPlaying.m project file
+and replace the nowPlaying/platforms/ios/nowPlaying/Plugins/cordova-plugin-nowplaying/MNowPlaying.m file<Br/>
+width my MNowPlaying.m file
 <Br/>
 <Br/>
 //////////////////////////////////////////////////////<Br/>
