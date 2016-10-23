@@ -22,9 +22,9 @@ width my MNowPlaying.m project file
 <Br/>
 //////////////////////////////////////////////////////<Br/>
 <Br/><Br/>
-copy :   my js/index.js and<Br/>
-paste: into your nowPlaying/platforms/ios/www folder<Br/>
-       (overwrite the folder)
+copy :   my js/index.js file and<Br/>
+paste: into your nowPlaying/platforms/ios/www/js folder<Br/>
+       (overwrite the index.js file)
   <Br/>  
   
 ///////////////////
