@@ -20,8 +20,8 @@ and replace nowPlaying/platforms/ios/nowPlaying/Plugins/cordova-plugin-nowplayin
 width my MNowPlaying.m project file
 <Br/>
 <Br/>
-//////////////////////////////////////////////////////
-<Br/>
+//////////////////////////////////////////////////////<Br/>
+<Br/><Br/>
 copy :   my js/index.js and<Br/>
 paste: into your nowPlaying/platforms/ios/www folder<Br/>
        (overwrite the folder)
